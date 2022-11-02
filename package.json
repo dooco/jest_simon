@@ -1,0 +1,22 @@
+{
+  "name": "jest_simon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dooco/jest_simon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dooco/jest_simon/issues"
+  },
+  "homepage": "https://github.com/dooco/jest_simon#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
